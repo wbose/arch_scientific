@@ -24,8 +24,6 @@ packages=(
   flameshot # Powerful yet simple to use screenshot software
   inkscape # Vector graphics editor
   blender # 3D creation suite
-  pulseaudio # Sound server with optional support for PulseAudio
-  pavucontrol # PulseAudio Volume Control
   ipython # Enhanced interactive shell
   gnuplot # Command line driven utility for creating 2D and 3D graphs
   python-matplotlib # Feature-rich Python library for creating publication-ready graphs and figures (added "python-" prefix)
